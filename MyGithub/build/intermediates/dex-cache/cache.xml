@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/eric/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/eric/github/MyGithub/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_9a0cd5bcdbe88b2dedf7558b48a84ff9251ba708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eric/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.2.0/3ee0e527143abbe130ddba4c1fa6c4be5d66ed5c/adapter-rxjava2-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3ee0e527143abbe130ddba4c1fa6c4be5d66ed5c">
+        <dex dex="/Users/eric/github/MyGithub/app/build/intermediates/pre-dexed/debug/adapter-rxjava2-2.2.0_27b3de5faf35dbc98df66c6412c10a878334c665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eric/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/Users/eric/github/MyGithub/app/build/intermediates/pre-dexed/debug/rxjava-2.1.0_3e806cd55add5179855bd034db7f08c752ec6f0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eric/.android/build-cache/9497d8a4aec3644158967e65640ac585cc50a836/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/eric/github/MyGithub/app/build/intermediates/pre-dexed/debug/classes_015142de7df84a3ad782bec8bf9575c91307f74a.jar" />
+    </item>
+
+</items>
